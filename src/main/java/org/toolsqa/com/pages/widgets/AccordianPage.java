@@ -82,4 +82,6 @@ public class AccordianPage extends BasePage {
     public void setAccElement3Text(WebElement accElement3Text) {
         this.accElement3Text = accElement3Text;
     }
+
+
 }
